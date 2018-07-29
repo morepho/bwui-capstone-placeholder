@@ -3,7 +3,7 @@
 
 Thank you for taking the time to review my capstone project. Whilst I edit a university website as my day job, I only get to dabble in code a little, as the master template is locked down. So, the Codecademy Pro course was both fun and a huge learning curve. 
 
-The submitted code represents my best attempt at taking what I learnt.
+The submitted code represents my best attempt at implementing what I learnt.
 
 ## Required tasks
 
