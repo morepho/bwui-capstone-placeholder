@@ -13,7 +13,7 @@ The submitted code represents my best attempt at implementing what I learnt.
 * Coding for a screen reader - This is very challenging for me. I was able to code basic titles and alt text, however implementing <main> tag on a page skewed the layout, so I removed the code and didn't proceed with this further. This is a good skill to master though.
 * Colour palette - I enjoyed giving the site a sprinkling of pumpkin orange.
 
-##My goals
+## My goals
 
 * Styling links, introducing font hierarchy and a colour palette - I enjoyed implementing these aspects with a view to helping customers enjoy browsing the site more, as I believe a furniture purchase is part emotive and part functional. A cohesive design can also help guide customers what to do.
 * Highlighting furniture prices - This was a fun thing to code. I wanted people with a budget to be able to see the price easily, including when an item is on sale. Ultimately, this could be done by crossing out the full price and showing the discounted price alongside. There are many tactics for this, but something like this would potentially motivate a customer to purchase.
